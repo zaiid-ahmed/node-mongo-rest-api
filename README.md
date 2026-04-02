@@ -2,7 +2,7 @@
 
 A simple REST API built with Node.js, Express, and MongoDB covering all CRUD operations — GET, POST, PUT, and DELETE.
 
-🔗 Live Demo (your-netlify-link)
+🔗 Live Demo: https://node-mongo-rest-api.netlify.app/
 
 ---
 
